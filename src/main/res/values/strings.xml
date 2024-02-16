@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">NoTrustIssues</string>
+    <string name="permissions_not_granted">Please grant required permissions not granted.</string>
+</resources>
